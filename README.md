@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <td rowspan="2"><div style="width: 100%;
     	text-align: center;
     	padding: 5px;">
-  <h1> Hello Worlds 👋🌎 </h1>
+  <h1> Hello World 👋🌎 </h1>
   
 - 🔭 I’m currently working with microservices architecture using Python, Django, MySQL, PostgreSQL and transformation the data using DBT and Redshift. In cloud computing providers such as Heroku and AWS.
 - 🌱 I’m currently learning Aurora, Cleaning Code, FastAPI, TensorFlow.
