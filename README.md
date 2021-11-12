@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<table style="border: 0px">
+<table>
 <tr style="border: 0">
 <td width="50%" style="border: 0"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=icardenas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&hide_stars=false" /></td>
 <td rowspan="2"><div style="width: 100%;
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
  <div>
 </td>
 </tr>
-<tr style="border: 0; background: white">
-<td style="background: white"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icardenas&layout=compact" />
+<tr style="border: 0; background: white;">
+<td style="background: white;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icardenas&layout=compact" />
 </td>
 </tr>
 </table>
